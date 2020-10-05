@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T11:34:13.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="HKKu0WOz-QvbSqO5LQ1R" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T11:36:32.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="-TU6bIxlY1Tc5o16ZyXF" version="13.7.7" type="github">
   <diagram id="8yV0ZAlydP06mgKiQTRQ" name="Page-1">
     <mxGraphModel dx="1221" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FxBuX2RngGqQmipB7oQ7-45" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="82.5" width="330" height="155" as="geometry" />
+        </mxCell>
         <mxCell id="FxBuX2RngGqQmipB7oQ7-49" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="830" y="92.5" width="140" height="155" as="geometry" />
+          <mxGeometry x="670" y="80" width="140" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FxBuX2RngGqQmipB7oQ7-46" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="92.5" width="310" height="150" as="geometry" />
+          <mxGeometry x="450" y="80" width="170" height="162.5" as="geometry" />
         </mxCell>
         <mxCell id="FxBuX2RngGqQmipB7oQ7-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="625" y="326.5" width="140" height="160" as="geometry" />
@@ -92,10 +95,7 @@
           <mxGeometry x="80" y="110" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FxBuX2RngGqQmipB7oQ7-34" value="&lt;b&gt;Definición de estrategias&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="215" y="60" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FxBuX2RngGqQmipB7oQ7-36" value="Diseño de la oferta educativa" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="215" y="40" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FxBuX2RngGqQmipB7oQ7-37" value="Verificación y correcciones en la definición de la estrategia" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
@@ -127,20 +127,20 @@
         <mxCell id="FxBuX2RngGqQmipB7oQ7-44" value="Extinción de títulos" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="475" y="200" width="120" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="FxBuX2RngGqQmipB7oQ7-45" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="95" width="330" height="155" as="geometry" />
-        </mxCell>
         <mxCell id="FxBuX2RngGqQmipB7oQ7-47" value="Asignación del personal" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="840" y="150" width="120" height="40" as="geometry" />
+          <mxGeometry x="680" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FxBuX2RngGqQmipB7oQ7-48" value="Contratación de nuevo personal" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="840" y="110" width="120" height="30" as="geometry" />
+          <mxGeometry x="680" y="110" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FxBuX2RngGqQmipB7oQ7-50" value="Gestión del personal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="880" y="60" width="40" height="20" as="geometry" />
+        <mxCell id="FxBuX2RngGqQmipB7oQ7-50" value="&lt;b&gt;Gestión del personal&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="40" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FxBuX2RngGqQmipB7oQ7-51" value="Preparación del personal" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="840" y="200" width="120" height="30" as="geometry" />
+          <mxGeometry x="680" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FxBuX2RngGqQmipB7oQ7-53" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;b&gt;Diseño de la oferta educativa&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="40" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
